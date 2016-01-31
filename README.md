@@ -1,2 +1,2 @@
-An experiment investigating ideal gas behaviour and thermodynamics, using a simple particle simulation.
+An experiment investigating ideal gas behaviour and its thermodynamic properties using a simple particle simulation.
 
